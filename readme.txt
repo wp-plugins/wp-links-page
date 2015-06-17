@@ -69,7 +69,7 @@ A new widget is also provided. This widget will display a one column grid of the
 
 If using a enhanced Text Widget you may enter the the Wp links Page shortcode to display links.
 
-— Shortcode -
+— Shortcode —
 
 Use this shortcode to add your links to any page or post:
 
