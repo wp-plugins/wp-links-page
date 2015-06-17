@@ -9,9 +9,11 @@ This plugin allows you to create a dynamic link gallery with screenshots of each
 
 == Description ==
 
+This free version only allows six links to be added.
+
 This plugin allows you to create a dynamic link gallery with screenshots of each link. It will automatically create screenshots of each link and save you from creating a hardcoded links page or finding images for each site. It allows sites to create a links page with several different views. The screenshots for the links can be updated on a set schedule or with the click of a button. Links can be added, edited, and reordered on the setup page.
 
-This free version only allows six links to be added. For the full version please visit: http://www.wplinkspage.com/
+Click here to view a demo of this plugin: http://www.wplinkspage.com/demo/
 
 == Installation ==
 
