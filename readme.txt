@@ -37,7 +37,7 @@ Using FTP
 
 — Adding and Editing Links —
 
-With this version you are limited to six links only. Purchase the pro version for unlimited links at http://wplinkspage.com/purchase/
+With this version you are limited to six links only. 
 
 Visit the WP Links Page section of the dashboard to add, reorder, and edit the links.
 
@@ -69,14 +69,6 @@ A new widget is also provided. This widget will display a one column grid of the
 
 If using a enhanced Text Widget you may enter the the Wp links Page shortcode to display links.
 
-With this version the widget only gives the option to change the title. Purchase the pro version for the extra widget features at http://wplinkspage.com/purchase/
-
-Options:
-
-    Title
-    Number of Links to display
-    Display Descriptions toggle
-
 — Shortcode -
 
 Use this shortcode to add your links to any page or post:
@@ -85,42 +77,9 @@ Use this shortcode to add your links to any page or post:
 
     Displays all links with the global settings.
 
-With this version you are limited to the above shortcode only. Purchase the pro version take advantage of the fine tuned control available below at http://wplinkspage.com/purchase/
-
-[wp_links_page num=”1″]
-
-    Displays only the first link.
-    Change the number to any other link number to display a different link.
-    This shortcode always fills 100% of the width regardless of list or grid options.
-    Allowed Options: Any Number
-
-[wp_links_page type=”grid”]
-
-    Overrides the global settings to either grid or list.
-    This option is case sensitive. It will understand “grid” but not “Grid”.
-    Allowed Options: grid or list
-
-[wp_links_page cols=”2″]
-
-    Overrides the current number of columns in the grid.
-    If the list setting is enabled this option will be ignored.
-    Allowed Options: 2, 3, 4, or 5
-
-[wp_links_page description=”yes”]
-
-    Sets the option to display descriptions on the grid.
-    If the list setting is enabled descriptions are always displayed regardless of this option.
-    Allowed Options: yes or no
-
-[wp_links_page limit=”3″]
-
-    Limits the amount of links shown to this number
-    e.g. if 3 is chosen only 3 links will display.
-    Allowed Options: any number
-
 For more detailed documentation there is a help page included with this plugin found under the WP Links Page Free section in your dashboard.
 
-You can also visit http://www.wplinkspage.com/ for more information.
+You can also visit http://www.wplinkspage.com/ for more information and to purchase the full version which includes unlimited links and extra features.
 
 == Screenshots ==
 
