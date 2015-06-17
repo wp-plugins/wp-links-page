@@ -4,7 +4,7 @@
  * @version 1.0
  */
 /*
-Plugin Name: WP Links Page Free
+Plugin Name: WP Links Page
 Plugin URI:  http://wordpress.org/extend/plugins/wp-links-page-free/
 Description: This plugin provides a screenshot of each link along with your own description 
 Version: 1.0
