@@ -59,9 +59,9 @@ The Grid layout does not show the description. Use the List layout to display th
 
 Options:
 
-    Screenshot refresh rate: Twice Daily, Daily, Every two days, Weekly, Every two Weeks, Monthly.
-    Display: Grid or List.
-    Columns for Grid: 1, 2, 3, 4 or 5
+* Screenshot refresh rate: Twice Daily, Daily, Every two days, Weekly, Every two Weeks, Monthly.
+* Display: Grid or List.
+* Columns for Grid: 1, 2, 3, 4 or 5
 
 — Widget —
 
@@ -73,9 +73,9 @@ If using a enhanced Text Widget you may enter the the Wp links Page shortcode to
 
 Use this shortcode to add your links to any page or post:
 
-[wp_links_page_free]
+    [wp_links_page_free]
 
-    Displays all links with the global settings.
+This displays all links with the global settings.
 
 For more detailed documentation there is a help page included with this plugin found under the WP Links Page Free section in your dashboard.
 
