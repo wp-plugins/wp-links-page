@@ -20,18 +20,18 @@ Click here to view a demo of this plugin: http://www.wplinkspage.com/demo/
 Installation
 Uploading via WordPress Dashboard
 
-    Navigate to the ‘Add New’ in the plugins dashboard
-    Navigate to the ‘Upload’ area
-    Select wp-links-page.zip from your computer
-    Click ‘Install Now’
-    Activate the plugin in the Plugin dashboard
+1. Navigate to the ‘Add New’ in the plugins dashboard
+2. Navigate to the ‘Upload’ area
+3. Select wp-links-page.zip from your computer
+4. Click ‘Install Now’
+5. Activate the plugin in the Plugin dashboard
 
 Using FTP
 
-    Download wp-links-page.zip
-    Extract the wp-links-page.zip directory to your computer
-    Upload the wp-links-page.zip directory to the /wp-content/plugins/ directory
-    Activate the plugin in the Plugin dashboard
+1. Download wp-links-page.zip
+2. Extract the wp-links-page.zip directory to your computer
+3. Upload the wp-links-page.zip directory to the /wp-content/plugins/ directory
+4. Activate the plugin in the Plugin dashboard
 
 == Usage ==
 
