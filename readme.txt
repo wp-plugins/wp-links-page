@@ -120,6 +120,18 @@ For more detailed documentation there is a help page included with this plugin f
 
 You can also visit http://www.wplinkspage.com/ for more information.
 
+== Screenshots ==
+
+1. This shows the output for the grid version with 3 columns.
+
+2. This shows the output for the list version.
+
+3. The Add Links Page
+
+4. The Settings Page
+
+5. This plugin adds a new widget for use on your site.
+
 == ChangeLog ==
 
 = Version 0.1 =
