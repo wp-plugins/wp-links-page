@@ -1,4 +1,4 @@
-=== WP-Links-Page-Free ===
+=== WP Links Page ===
 Contributors: Allyson Rico, Robert Macchi
 Tags: wp-links, links, links page, link screenshots, link directory, link gallery, link thumbnails
 Requires at least: 
